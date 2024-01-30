@@ -1,1 +1,5 @@
 ## In this Repository, I have included the Final Dissertation Project of my Master's Degree. 
+
+### Project Description. 
+- Project Name: **PREDICTIVE MODELING AND TEAM PERFORMANCE ANALYSIS IN IPL.**
+- Abstract: This study employs predictive modeling and data analytics to analyze players and team performance in the Indian Premier League (IPL) from 2008 to 2022. The aim is to conduct a thesis on real-world data, emphasizing the significant impact of data analysis in cricket, particularly during player auctions and match outcomes. The research utilizes two primary datasets, IPL_Matches_2008_2022 and IPL_Ball_by_Ball_2008_2022, and conducts exploratory data analysis, batting, bowling, and fielding analysis. The datasets are merged to create a unified dataframe, focusing on second innings data for machine learning. Logistic regression is employed to predict match outcomes, achieving an 81% accuracy, and offering valuable winning probabilities during matches. The study contributes to the ongoing discourse on leveraging data science in sports analytics and offers a tool for estimating match outcomes.   
