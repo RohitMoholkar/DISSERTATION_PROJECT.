@@ -1,4 +1,4 @@
-## In this Repository, I have included the Final Dissertation Project of my Master's Degree. 
+## In this repository, I have included the final dissertation project of my master's degree.
 
 ### Project Description. 
 - Project Name: **PREDICTIVE MODELING AND TEAM PERFORMANCE ANALYSIS IN IPL.**
