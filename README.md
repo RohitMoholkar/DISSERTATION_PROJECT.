@@ -17,9 +17,6 @@
 - Dissertation_Reseach_Poster.pdf → Research poster.
 - IPL_prediction.pkl → Trained logistic regression model.
 
-🔧 Tech Stack
-
-· Python  · Pandas  · Matplotlib  · Seaborn  · Scikit-learn (ColumnTransformer, Logistic Regression)  · Pickle
 
 📊 Results
 
@@ -30,8 +27,15 @@
 - Classification Report:
 - Win Probability Curve:
 
+
 🔮 Future Scope
 
 - Integrating real-time match data (via API/web scraping).
 - Including external factors (weather, injuries).
 - Developing an interactive web app for predictions.
+
+
+🔧 Tech Stack
+
+• Python  • Pandas  • Matplotlib  • Seaborn  • Scikit-learn (ColumnTransformer, Logistic Regression)  • Pickle
+
