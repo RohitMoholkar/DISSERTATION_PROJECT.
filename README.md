@@ -1,15 +1,17 @@
-## In this repository, I have included the final dissertation project of my master's degree.
+This repository contains my Master’s dissertation project at Dublin Business School, focused on predictive modeling and sports analytics in the Indian Premier League (IPL). 🏏
+ 
+### Project Name: PREDICTIVE MODELING AND PERFORMANCE ANALYSIS IN CRICKET.
 
-### Project Description. 
-- Project Name: **PREDICTIVE MODELING AND PERFORMANCE ANALYSIS IN CRICKET (IPL).**
-- Abstract: This study employs predictive modeling and data analytics to analyze players and team performance in the Indian Premier League (IPL) from 2008 to 2022. The aim is to conduct a thesis on real-world data, emphasizing the significant impact of data analysis in cricket, particularly during player auctions and match outcomes. The research utilizes two primary datasets, IPL_Matches_2008_2022 and IPL_Ball_by_Ball_2008_2022, and conducts exploratory data analysis, batting, bowling, and fielding analysis. The datasets are merged to create a unified dataframe, focusing on second innings data for machine learning. Logistic regression is employed to predict match outcomes, achieving an 81% accuracy, and offering valuable winning probabilities during matches. The study contributes to the ongoing discourse on leveraging data science in sports analytics and offers a tool for estimating match outcomes.
-- Above, in this repository, you will find all the details about my dissertation project. I have included the overall code of my project as an IPYNB file, along with a comprehensive 68-page report, research poster and a presentation summarizing my project. Thank you.
+### 📌 Project Overview
 
-📌 Project Overview
+- Analyzed 250,000+ IPL match deliveries (2008–2022) using Python.
+- Conducted extensive exploratory data analysis on batting, bowling, fielding, and team performance across seasons.
+- Engineered new features and prepared the dataset for modeling.
+- Built a machine learning pipeline (ColumnTransformer + One-Hot Encoding + Logistic Regression).
+- Achieved 81% accuracy in predicting match outcomes.
+- Delivered real-time win probabilities after each over. 
 
-
-
-📂 Repository Contents
+### 📂 Repository Contents
 
 - Dissertation_Project_Code.ipynb → Full code (data processing, EDA, feature engineering, ML pipeline).
 - Dissertation_Project_Report.pdf → 68-page dissertation report.
@@ -17,22 +19,29 @@
 - Dissertation_Reseach_Poster.pdf → Research poster.
 - IPL_prediction.pkl → Trained logistic regression model.
 
-📊 Results
+### 📊 Results
 
 - Test Accuracy: 81%
 - Cross-Validation Accuracy: ~80.8%
 - Machine Learning Pipeline:
-- Confusion Matrix:
-- Classification Report:
-- Win Probability Curve:
+<img width="400" height="350" alt="Pipeline" src="https://github.com/user-attachments/assets/000a1f2e-dc02-4ba9-86ee-8d5de3c0f167" /> 
 
-🔮 Future Scope
+- Confusion Matrix:
+<img width="525" height="400" alt="ConfusionMatrix" src="https://github.com/user-attachments/assets/5595e380-90e9-4a58-bee9-4979d69a038f" />
+
+- Classification Report:
+<img width="450" height="200" alt="ClassificationReport" src="https://github.com/user-attachments/assets/dd6c3917-b3b0-4920-a639-ee152964727b" />
+
+- Win Probability Curve:
+<img width="798" height="521" alt="Win_Lose_Probabilities" src="https://github.com/user-attachments/assets/fc0fd9c2-2910-46f9-b86e-1efe4e0bb302" />
+
+
+### 🔮 Future Scope
 
 - Integrating real-time match data (via API/web scraping).
 - Including external factors (weather, injuries).
 - Developing an interactive web app for predictions.
 
-💻 Tech Stack 
+### 💻 Tech Stack 
 
 • Python  • Pandas  • Matplotlib  • Seaborn  • Scikit-learn (ColumnTransformer, Logistic Regression)  • Pickle
-
