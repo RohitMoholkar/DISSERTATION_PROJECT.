@@ -18,6 +18,9 @@
 - IPL_prediction.pkl → Trained logistic regression model.
 
 
+
+
+
 📊 Results
 
 - Test Accuracy: 81%
@@ -26,6 +29,9 @@
 - Confusion Matrix:
 - Classification Report:
 - Win Probability Curve:
+
+
+
 
 
 🔮 Future Scope
