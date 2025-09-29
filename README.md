@@ -11,27 +11,27 @@
 
 📂 Repository Contents
 
-● Dissertation_Project_Code.ipynb → Full code (data processing, EDA, feature engineering, ML pipeline).
-● Dissertation_Project_Report.pdf → 68-page dissertation report.
-● Dissertation_Project_Presentation.pdf → Presentation slides.
-● Dissertation_Reseach_Poster.pdf → Research poster.
-● IPL_prediction.pkl → Trained logistic regression model.
+- Dissertation_Project_Code.ipynb → Full code (data processing, EDA, feature engineering, ML pipeline).
+- Dissertation_Project_Report.pdf → 68-page dissertation report.
+- Dissertation_Project_Presentation.pdf → Presentation slides.
+- Dissertation_Reseach_Poster.pdf → Research poster.
+- IPL_prediction.pkl → Trained logistic regression model.
 
 🔧 Tech Stack
 
-● Python  ● Pandas  ● Matplotlib  ● Seaborn  ● Scikit-learn (ColumnTransformer, Logistic Regression)  ● Pickle
+· Python  · Pandas  · Matplotlib  · Seaborn  · Scikit-learn (ColumnTransformer, Logistic Regression)  · Pickle
 
 📊 Results
 
-● Test Accuracy: 81%
-● Cross-Validation Accuracy: ~80.8%
-● Machine Learning Pipeline:
-● Confusion Matrix:
-● Classification Report:
-● Win Probability Curve:
+- Test Accuracy: 81%
+- Cross-Validation Accuracy: ~80.8%
+- Machine Learning Pipeline:
+- Confusion Matrix:
+- Classification Report:
+- Win Probability Curve:
 
 🔮 Future Scope
 
-● Integrating real-time match data (via API/web scraping).
-● Including external factors (weather, injuries).
-● Developing an interactive web app for predictions.
+- Integrating real-time match data (via API/web scraping).
+- Including external factors (weather, injuries).
+- Developing an interactive web app for predictions.
